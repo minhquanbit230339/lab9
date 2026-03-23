@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: e79e94196f147ba46be099aea771545d
+  productGUID: 7ed506dfa6c4c7d4b95b1628353a32df
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Lab6.1
+  productName: Lab2.1
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -853,14 +853,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Lab6.1
+  metroPackageName: Lab2.1
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Lab6.1
+  metroApplicationDescription: Lab2.1
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -931,10 +931,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: f9fe2989-80a9-4c34-8db3-c5560367ff3e
+  cloudProjectId: ab058ea4-5640-4a8b-9786-66dcd32f35cc
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Lab6.1
+  projectName: Lab2.1
   organizationId: quan48926
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
